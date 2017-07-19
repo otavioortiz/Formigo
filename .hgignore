@@ -1,0 +1,21 @@
+syntax: glob
+Build
+build
+Library
+library
+Temp
+temp
+Obj
+obj
+*.orig
+*.orig.meta
+*.sln
+*.sln.docstates
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
+*.DS_Store
+Thumbs.db
+thumbs.db
+*.tmp

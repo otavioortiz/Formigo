@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/LoadDataScreen.unity
+  isLoaded: 1
+  isActive: 1
